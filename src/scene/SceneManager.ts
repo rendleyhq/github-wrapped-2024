@@ -379,7 +379,7 @@ export class SceneManager {
     const layer1 = this.getLayerByIndex(1);
 
     const clip = await layer1.addClip({
-      text: `Github Wrapped is here`,
+      text: `GitHub Wrapped is here`,
       startTime: 0,
       duration: 1.25,
       style: {
